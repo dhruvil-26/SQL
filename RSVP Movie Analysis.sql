@@ -1,4 +1,4 @@
--- Dhruvil Panchamia SQL Assignment
+-- RSVP Movies Analysis
 
 USE imdb;
 
